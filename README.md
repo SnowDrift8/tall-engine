@@ -4,7 +4,7 @@ Elo there humans welcome to the first and maybe best engine for Microsoft MakeCo
 
 ## Social medias
 
-
+twitter - @snowdrift0909 discord server - https://discord.gg/rQwVrKsEBd youtube - SnowDrift Gaming twitch - ProjectSnowDrift
 
 > Open this page at [https://snowdrift8.github.io/tall-engine/](https://snowdrift8.github.io/tall-engine/)
 
