@@ -1,6 +1,6 @@
  ## Welcome
 
-Elo there humans welcome to the first and maybe best engine for Microsoft MakeCode! This engine has a lot of unique stuff so use the [game URL](https://makecode.com/_i4ca4U1c3PgD) or compile with the pre-intruction or go to the releases and download!
+Elo there humans welcome to the first and maybe best engine for Microsoft MakeCode! This engine has a lot of unique stuff so you can use the [game URL](https://makecode.com/_i4ca4U1c3PgD) and edit it from there or compile with the pre-intruction or even just go to the releases and download!
 
 ## Social medias
 
